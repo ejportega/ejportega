@@ -27,7 +27,7 @@ Welcome to my GitHub! I am a passionate software developer with expertise in **A
 
 ### 🏗 **Backend Development**  
 - 🚀 Spring Boot, Django, Flask, Laravel  
-- ⚡ Express.js, Node.js  
+- ⚡ Express.js, Node.js, NestJS  
 
 ### 📱 **Mobile Development**  
 - 📱 Android (Kotlin), iOS (Swift)  
