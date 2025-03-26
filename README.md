@@ -30,7 +30,7 @@ Welcome to my GitHub! I am a passionate software developer with expertise in **A
 - ⚡ Express.js, Node.js, NestJS  
 
 ### 📱 **Mobile Development**  
-- 📱 Android (Kotlin), iOS (Swift)  
+- 📱 Android (Java/Kotlin), iOS (Swift)  
 
 ### 💾 **Databases**  
 - 🗃 MongoDB, MySQL, PostgreSQL, Oracle, SQLite  
