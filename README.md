@@ -37,7 +37,7 @@ Welcome to my GitHub! I am a passionate software developer with expertise in **A
 
 ### 🛠 **Other Technologies**  
 - 🖥 Linux, AWS, Digital Ocean, Heroku  
-- 🔧 Git, Cloud Computing, C++, Visual Basic  
+- 🔧 Git, Cloud Computing, C#, Visual Basic  
 
 ---
 
